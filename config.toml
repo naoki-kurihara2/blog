@@ -1,4 +1,5 @@
-baseURL = "https://www.example.com/"
+baseURL = "https://nkurihara_blog/"
+publishDir="docs"
 title = "Hugo Theme Basic"
 theme ="hugo-theme-basic"
 languageCode = "en-us"

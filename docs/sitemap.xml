@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nkurihara_blog/categories/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/categories/development/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/tags/development/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/project/hugo/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/project/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/tags/</loc>
+    <lastmod>2019-02-10T16:53:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/tags/demo/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/tags/image/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/post/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/post/the-figure-shortcode/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/post/post-with-featured-image/</loc>
+    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/tags/typography/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/post/typography/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/series/hugo-101/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/series/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/post/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/post/getting-started-with-hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nkurihara_blog/post/migrate-to-hugo-from-jekyll/</loc>
+    <lastmod>2018-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
