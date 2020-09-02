@@ -1,4 +1,4 @@
-baseURL = "https://nkurihara_blog/"
+baseURL = "http://nkurihara_blog/"
 publishDir="docs"
 title = "Hugo Theme Basic"
 theme ="hugo-theme-basic"
