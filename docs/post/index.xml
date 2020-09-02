@@ -89,6 +89,11 @@ Follow the following steps:
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
-    
+<item>
+       <title>初投稿</title>
+       <link>https://nkurihara_blog/post/first-post/</link>
+       <pubDate>Mon, 02 Oct 2020 14:40:00 +0000</pubDate>
+       <guid>https://nkurihara_blog/post/first-post/</guid>
+</item>    
   </channel>
 </rss>
