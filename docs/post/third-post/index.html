@@ -31,9 +31,6 @@
 " /> <meta property="article:modified_time" content="2018-12-24
 " />
 
-
-
-
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@siegerts" />
 <meta name="twitter:creator" content="@siegerts" />
@@ -78,19 +75,19 @@
 var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
 var doNotTrack = (dnt == "1" || dnt == "yes");
 if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	if (window.sessionStorage) {
-		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
-		ga('create', 'UA-XXXXXXXXX-X', {
-	    'storage': 'none',
-	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
-	   });
-	   ga(function(tracker) {
-	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
-	   });
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        if (window.sessionStorage) {
+                var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+                ga('create', 'UA-XXXXXXXXX-X', {
+            'storage': 'none',
+            'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+           });
+           ga(function(tracker) {
+            sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+           });
    }
-	ga('set', 'anonymizeIp', true);
-	ga('send', 'pageview');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
 }
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
@@ -101,8 +98,11 @@ if (!doNotTrack) {
   </head>
 
 
-  <body>
-      <div>
+      <body
+    lang="en-us"
+    class="sans-serif w-90 w-60-ns center center-ns mv2 mv5-ns"
+  >
+    <div>
       <h1>ブログ3回目の投稿!!</h1>
       <p>September 2,2020</p>
       <p>3回目の投稿です</p>
@@ -123,6 +123,5 @@ if (!doNotTrack) {
 <script>
   hljs.initHighlightingOnLoad();
 </script>
-
   </body>
 </html>
